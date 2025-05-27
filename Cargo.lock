@@ -866,6 +866,7 @@ name = "threads_comparison"
 version = "0.1.0"
 dependencies = [
  "image",
+ "num_cpus",
  "threadpool",
  "windows",
 ]
